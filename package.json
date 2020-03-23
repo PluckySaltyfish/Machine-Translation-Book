@@ -1,0 +1,30 @@
+{
+  "name": "machine-translation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PluckySaltyfish/Machine-Translation-Book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PluckySaltyfish/Machine-Translation-Book/issues"
+  },
+  "homepage": "https://github.com/PluckySaltyfish/Machine-Translation-Book#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "markdown-it": "^10.0.0",
+    "markdown-it-katex": "^2.0.3",
+    "markdown-it-katex-external": "^1.0.0"
+  }
+}
